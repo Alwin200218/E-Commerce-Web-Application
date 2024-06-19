@@ -24,7 +24,7 @@ An online grocery shop offers several advantages, including the convenience of s
 
 3. Configure environment variables for database and payment gateway integration.
 
-4. Visit `localhost:http://127.0.0.1:5000` in your web browser.
+4. Visit `localhost:http://127.0.0.1:8000` in your web browser.
 
 # # Technologies Used
 
