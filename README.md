@@ -16,18 +16,29 @@ An online grocery shop offers several advantages, including the convenience of s
 
 - **User profile management**: Generate reports for application statistics and route optimization.
 
-# # Installation
+# Installation
+**Clone the repository:**
 
-1. Clone the repository: `(https://github.com/Alwin200218/E-Commerce-Web-Application/tree/main/E-Commerce%20WebApp)`
+**bash**
+Copy code
+git clone`(https://github.com/Alwin200218/E-Commerce-Web-Application/tree/main/E-Commerce%20WebApp)`
 
-2. Install dependencies: `Dajngo`
+**Install dependencies:**
+Copy code
+pip install Django
+Configure environment variables for database.
 
-3. Configure environment variables for database and payment gateway integration.
+**Run the application:**
+Copy code
+python app.py
+Visit  http://127.0.0.1:8000 in your web browser.
 
-4. Visit `localhost:http://127.0.0.1:8000` in your web browser.
+# Technologies Used
+**Backend:** Python Django
+**Frontend:** HTML, CSS, JavaScript , Bootstrap
+**Database:** SQLite3
 
-# # Technologies Used
 
-- Python Django for the backend.
-- HTML , CSS , Bootstrap , JavaScript for the frontend.
-- SQLite3 for database storage.
+# Demo
+
+# Demo Images: 
