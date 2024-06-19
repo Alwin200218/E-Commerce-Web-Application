@@ -18,7 +18,7 @@ An online grocery shop offers several advantages, including the convenience of s
 
 # # Installation
 
-1. Clone the repository: `git clone https://github.com/bharath3138/bus-pass-application.git`
+1. Clone the repository: `(https://github.com/Alwin200218/E-Commerce-Web-Application/tree/main/E-Commerce%20WebApp)`
 
 2. Install dependencies: `Dajngo`
 
